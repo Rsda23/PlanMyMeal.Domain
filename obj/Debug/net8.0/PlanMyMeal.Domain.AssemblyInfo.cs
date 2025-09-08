@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlanMyMeal.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a82879ce8a2793b79c01e503f5695d3d6b5635f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74b2770cca49c1b5772275a61e77e2a76ca8e9a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlanMyMeal.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlanMyMeal.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
