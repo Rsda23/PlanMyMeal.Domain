@@ -4,6 +4,13 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<Version>1.0.0</Version>
+	<PackageId>PlanMyMeal.Domain</PackageId>
+	<Authors>Rsda</Authors>
+	<Description>Domain for PlanMyMeal</Description>
+	<RepositoryUrl>https://github.com/Rsda23/PlanMyMeal.Domain</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>
