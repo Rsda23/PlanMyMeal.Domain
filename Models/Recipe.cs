@@ -7,6 +7,9 @@ namespace PlanMyMeal.Domain.Models
         [JsonPropertyName("recipeId")]
         public string RecipeId { get; set; }
 
+        [JsonPropertyName("userId")]
+        public string UserId { get; set; }
+
         [JsonPropertyName("title")]
         public string Title { get; set; }
 
@@ -19,8 +22,9 @@ namespace PlanMyMeal.Domain.Models
 
         }
 
-        public Recipe(string title, List<Ingredient> ingredients)
+        public Recipe(string userId, string title, List<Ingredient> ingredients)
         {
+            UserId = userId;
             Title = title;
             Ingredients = ingredients;
         }
