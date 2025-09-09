@@ -14,11 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rsda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Domain for PlanMyMeal")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81f6341eaa836f281c61ac36d66d0c1f5128c099")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+b6463b9ce407ec22cd6ac8bf25f30ec05ce0b7be")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlanMyMeal.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlanMyMeal.Domain")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Rsda23/PlanMyMeal.Domain")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

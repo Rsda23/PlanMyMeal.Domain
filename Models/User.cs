@@ -10,6 +10,9 @@ namespace PlanMyMeal.Domain.Models
         [JsonPropertyName("role")]
         public string Role { get; set; } = "member";
 
+        [JsonPropertyName("imageUrl")]
+        public string ImageUrl { get; set; } = string.Empty;
+
         [JsonPropertyName("pseudo")]
         public string Pseudo { get; set; }
         [JsonPropertyName("email")]
@@ -28,9 +31,10 @@ namespace PlanMyMeal.Domain.Models
 
         }
 
-        public User(string role, string pseudo, string email, string hashedPassword, DateTime createdAt, DateTime lastLoginAt)
+        public User(string role, string imageUrl, string pseudo, string email, string hashedPassword, DateTime createdAt, DateTime lastLoginAt)
         {
             Role = role; 
+            ImageUrl = imageUrl;
             Pseudo = pseudo;
             Email = email;
             HashedPassword = hashedPassword;
