@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\All\c#\planmymeal\src\PlanMyMeal.Domain\bin\Release\net8.0\PlanMyMeal.Domain.deps.json
+C:\Users\admin\Desktop\All\c#\planmymeal\src\PlanMyMeal.Domain\bin\Release\net8.0\PlanMyMeal.Domain.dll
+C:\Users\admin\Desktop\All\c#\planmymeal\src\PlanMyMeal.Domain\bin\Release\net8.0\PlanMyMeal.Domain.pdb
+C:\Users\admin\Desktop\All\c#\planmymeal\src\PlanMyMeal.Domain\obj\Release\net8.0\PlanMyMeal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\All\c#\planmymeal\src\PlanMyMeal.Domain\obj\Release\net8.0\PlanMyMeal.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\All\c#\planmymeal\src\PlanMyMeal.Domain\obj\Release\net8.0\PlanMyMeal.Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\All\c#\planmymeal\src\PlanMyMeal.Domain\obj\Release\net8.0\PlanMyMeal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\All\c#\planmymeal\src\PlanMyMeal.Domain\obj\Release\net8.0\PlanMyMeal.Domain.sourcelink.json
+C:\Users\admin\Desktop\All\c#\planmymeal\src\PlanMyMeal.Domain\obj\Release\net8.0\PlanMyMeal.Domain.dll
+C:\Users\admin\Desktop\All\c#\planmymeal\src\PlanMyMeal.Domain\obj\Release\net8.0\refint\PlanMyMeal.Domain.dll
+C:\Users\admin\Desktop\All\c#\planmymeal\src\PlanMyMeal.Domain\obj\Release\net8.0\PlanMyMeal.Domain.pdb
+C:\Users\admin\Desktop\All\c#\planmymeal\src\PlanMyMeal.Domain\obj\Release\net8.0\ref\PlanMyMeal.Domain.dll
